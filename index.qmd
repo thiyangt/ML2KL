@@ -1,11 +1,10 @@
 ---
-title: "Exploring Artistic Legacy "
+title: "Exploring Artistic Legacy: Analyzing Artifact Differences Across Kingdoms Using Machine Learning"
 ---
 
-This is a Quarto website.
+This is my journey from **Machine Learning to *Kingdom Learning*** with **M**athematics, **A**rt and **D**ata **S**cience (**MADS**), exploring mathematical concepts embedded in historical paintings and their evolution across different kingdoms in Sri Lanka.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This strongly aligns with the 2025 International Day of Mathematics theme: Mathematics, Art, and Creativity, emphasizing the importance of the intersection between mathematics and art.
 
-```{r}
-1 + 1
-```
+
+[Dr Thiyanga S. Talagala](https://thiyanga.netlify.app/)
