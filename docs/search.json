@@ -72,9 +72,9 @@
   {
     "objectID": "outcome.html",
     "href": "outcome.html",
-    "title": "Project Outcomes",
+    "title": "Project Goals and Contribution to SDGs",
     "section": "",
-    "text": "SDG 4 (Quality Education): Open-access digital archives support research and education.\nSDG 11 (Sustainable Cities & Communities): Preserves Sri Lankan heritage for future generations."
+    "text": "SDG 4 (Quality Education): Open-access digital archives support research and education.\nSDG 9 (Industry, Innovation, and Infrastructure): Create an atlas of mathematics rooted artifact locations to boost tourism industry\nSDG 11 (Sustainable Cities & Communities): Preserves Sri Lankan heritage for future generations.\nSDG 12 (Responsible Consumption and Production): Digital preservation and machine learning modeling minimize the need for physical interventions, reducing material waste and costs."
   },
   {
     "objectID": "outcome.html#collect-and-digitize-ancient-sri-lankan-wall-paintings-and-artifacts",
@@ -86,9 +86,9 @@
   {
     "objectID": "outcome.html#develop-an-algorithm-to-enhance-image-quality-for-analysis",
     "href": "outcome.html#develop-an-algorithm-to-enhance-image-quality-for-analysis",
-    "title": "Project Outcomes",
-    "section": "2. Develop an Algorithm to Enhance Image Quality for Analysis",
-    "text": "2. Develop an Algorithm to Enhance Image Quality for Analysis\n\nSDG 9 (Industry, Innovation & Infrastructure): AI-driven restoration aids cultural conservation."
+    "title": "Project Goals and Contribution to SDGs",
+    "section": "2. Develop an algorithm to enhance image quality for analysis",
+    "text": "2. Develop an algorithm to enhance image quality for analysis\n\nSDG 9 (Industry, Innovation & Infrastructure): AI-driven restoration aids cultural conservation."
   },
   {
     "objectID": "outcome.html#create-machine-learning-models-to-identify-mathematical-patterns-in-art",
@@ -110,5 +110,33 @@
     "title": "Project Outcomes",
     "section": "5. Create a documentary showcasing the discoveries to promote tourism and attract a wider audience. Additionally, create online open-access books that integrate mathematics and programming with art",
     "text": "5. Create a documentary showcasing the discoveries to promote tourism and attract a wider audience. Additionally, create online open-access books that integrate mathematics and programming with art\n\nSDG 4 (Education & Awareness): Promotes mathematics using art and creativity."
+  },
+  {
+    "objectID": "outcome.html#collect-and-digitize-ancient-sri-lankan-wall-paintings-and-artifacts-to-build-a-comprehensive-and-accessible-database",
+    "href": "outcome.html#collect-and-digitize-ancient-sri-lankan-wall-paintings-and-artifacts-to-build-a-comprehensive-and-accessible-database",
+    "title": "Project Goals and Contribution to SDGs",
+    "section": "",
+    "text": "SDG 4 (Quality Education): Open-access digital archives support research and education.\nSDG 9 (Industry, Innovation, and Infrastructure): Create an atlas of mathematics rooted artifact locations to boost tourism industry\nSDG 11 (Sustainable Cities & Communities): Preserves Sri Lankan heritage for future generations.\nSDG 12 (Responsible Consumption and Production): Digital preservation and machine learning modeling minimize the need for physical interventions, reducing material waste and costs."
+  },
+  {
+    "objectID": "outcome.html#create-machine-learning-models-to-identify-mathematical-patterns-such-as-symmetry-tessellation-and-the-golden-ratio-geometries-and-coloring-techniques-rooted-in-historical-paintings-and-artifacts",
+    "href": "outcome.html#create-machine-learning-models-to-identify-mathematical-patterns-such-as-symmetry-tessellation-and-the-golden-ratio-geometries-and-coloring-techniques-rooted-in-historical-paintings-and-artifacts",
+    "title": "Project Goals and Contribution to SDGs",
+    "section": "3. Create machine learning models to identify mathematical patterns (such as symmetry, tessellation, and the golden ratio), geometries, and coloring techniques rooted in historical paintings and artifacts",
+    "text": "3. Create machine learning models to identify mathematical patterns (such as symmetry, tessellation, and the golden ratio), geometries, and coloring techniques rooted in historical paintings and artifacts\n\nSDG 4 (Quality Education): Encourages interdisciplinary learning in mathematics, art, and AI.\nSDG 9 (Innovation & AI in Cultural Studies): Bridges historical art and modern technology.\nSDG 11 (Sustainable Cities and Communities): Uncovering mathematical patterns and structures in artifacts enhances their global recognition, attracting a wider audience and boosting cultural tourism."
+  },
+  {
+    "objectID": "outcome.html#develop-a-classification-algorithm-to-determine-the-historical-period-of-artifacts-and-paintings.",
+    "href": "outcome.html#develop-a-classification-algorithm-to-determine-the-historical-period-of-artifacts-and-paintings.",
+    "title": "Project Goals and Contribution to SDGs",
+    "section": "4. Develop a classification algorithm to determine the historical period of artifacts and paintings.",
+    "text": "4. Develop a classification algorithm to determine the historical period of artifacts and paintings.\n\nSDG 9 (Industry & Innovation): Enables data science powered cultural research.\nSDG 11 (Sustainable Cities & Communities): Digital classification helps heritage conservation efforts.\nSDG 17 (Partnerships for the Goals): Encourages collaborations between data scientists, historians, and cultural institutions"
+  },
+  {
+    "objectID": "outcome.html#create-a-documentary-showcasing-the-discoveries-to-promote-tourism-and-attract-a-wider-audience.-additionally-create-online-open-access-books-that-integrate-mathematics-and-programming-with-art-and-generate-mandala-inspired-by-traditional-sri-lankan-art-which-helps-to-improve-mathematical-thinking-in-stress-relieving-way",
+    "href": "outcome.html#create-a-documentary-showcasing-the-discoveries-to-promote-tourism-and-attract-a-wider-audience.-additionally-create-online-open-access-books-that-integrate-mathematics-and-programming-with-art-and-generate-mandala-inspired-by-traditional-sri-lankan-art-which-helps-to-improve-mathematical-thinking-in-stress-relieving-way",
+    "title": "Project Goals and Contribution to SDGs",
+    "section": "5. Create a documentary showcasing the discoveries to promote tourism and attract a wider audience. Additionally, create online open-access books that integrate mathematics and programming with art and generate mandala inspired by traditional Sri Lankan art which helps to improve mathematical thinking in stress relieving way",
+    "text": "5. Create a documentary showcasing the discoveries to promote tourism and attract a wider audience. Additionally, create online open-access books that integrate mathematics and programming with art and generate mandala inspired by traditional Sri Lankan art which helps to improve mathematical thinking in stress relieving way\n\nSDG 4 (Education & Awareness): Enhances STEM + Art (STEAM) learning by integrating history, art and mathematics."
   }
 ]
