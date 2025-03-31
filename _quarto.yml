@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Machine Learning to Kingdom Learning (ML2KL)"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Motivation to Project
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
