@@ -2,9 +2,40 @@
 title: "Exploring Artistic Legacy: Analyzing Artifact Differences Across Kingdoms Using Machine Learning"
 ---
 
+## About
+
 This is my journey from **Machine Learning to *Kingdom Learning*** with **M**athematics, **A**rt and **D**ata **S**cience (**MADS**), exploring mathematical concepts embedded in historical paintings and their evolution across different kingdoms in Sri Lanka.
 
 This strongly aligns with the 2025 International Day of Mathematics theme: Mathematics, Art, and Creativity, emphasizing the importance of the intersection between mathematics and art.
 
+## Motivation
 
-[Dr Thiyanga S. Talagala](https://thiyanga.netlify.app/)
+Sri Lanka is a country with a rich cultural heritage. As both a Data Scientist and an Artist, observing the artifacts, historical paintings, and murals of our ancient kingdoms made me realize that these are not merely artistic expressions—they are deeply rooted in mathematical principles. This reinforces my belief: Behind every mathematician, there is an artist, and behind every artist, there is a mathematician.
+
+Figures 1 to 5 showcase examples from historical sites, featuring wall paintings and wooden carvings that I believe are grounded in mathematical concepts. When viewed from a mathematician’s perspective, these artworks reveal principles such as geometry, tessellation, symmetry, coloring algorithms, motifs, and more.
+
+The goal of this research is to explore mathematical concepts embedded in artifacts and historical paintings through the lens of machine learning.
+
+```{r, fig.cap="Figure 1: Temple of the Tooth Relic (Sri Dalada Maligawa): Tunnel to Sri Dalada Maligawa painted with lotus flower", fig.width=5, fig.height=5, echo=FALSE}
+knitr::include_graphics("img/Kandy3.jpg")
+```
+
+```{r, fig.cap="Figure 2: Temple of the Tooth Relic (Sri Dalada Maligawa): Tunnel to Sri Dalada Maligawa painted with lotus flower (enlargement of  wall paintings)", fig.width=5, fig.height=5, echo=FALSE}
+knitr::include_graphics("img/kandy2.png")
+```
+
+```{r, fig.cap="Figure 3: Temple of the Tooth Relic (Sri Dalada Maligawa): Tunnel to Sri Dalada Maligawa painted with lotus flower (enlargement of wall paintings)", fig.width=5, fig.height=5, echo=FALSE}
+knitr::include_graphics("img/kandy1.png")
+```
+
+
+```{r, fig.cap="Figure 4: Embekke Devalaya Wood Carvings)", fig.width=5, fig.height=5, echo=FALSE}
+knitr::include_graphics("img/Em1.jpg")
+```
+
+```{r, fig.cap="Figure 5: Embekke Devalaya Wood Carvings", fig.width=5, fig.height=5, echo=FALSE}
+knitr::include_graphics("img/Em2.jpg")
+```
+
+
+
