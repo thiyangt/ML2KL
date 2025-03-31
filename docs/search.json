@@ -1,38 +1,66 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Exploring Artistic Legacy: Analyzing Artifact Differences Across Kingdoms Using Machine Learning",
+    "objectID": "sdg.html",
+    "href": "sdg.html",
+    "title": "Contribution to Sustainable Development Goals (SDGs)",
     "section": "",
-    "text": "This is my journey from Machine Learning to Kingdom Learning with Mathematics, Art and Data Science (MADS), exploring mathematical concepts embedded in historical paintings and their evolution across different kingdoms in Sri Lanka.\nThis strongly aligns with the 2025 International Day of Mathematics theme: Mathematics, Art, and Creativity, emphasizing the importance of the intersection between mathematics and art.\n\n\n\n\n\nFigure 1: Temple of the Tooth Relic (Sri Dalada Maligawa): Tunnel to Sri Dalada Maligawa painted with lotus flower"
+    "text": "Research plays a vital role in achieving the Sustainable Development Goals (SDGs)."
   },
   {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Exploring Artistic Legacy: Analyzing Artifact Differences Across Kingdoms Using Machine Learning",
-    "section": "",
-    "text": "This is my journey from Machine Learning to Kingdom Learning with Mathematics, Art and Data Science (MADS), exploring mathematical concepts embedded in historical paintings and their evolution across different kingdoms in Sri Lanka.\nThis strongly aligns with the 2025 International Day of Mathematics theme: Mathematics, Art, and Creativity, emphasizing the importance of the intersection between mathematics and art.\n\n\n\n\n\nFigure 1: Temple of the Tooth Relic (Sri Dalada Maligawa): Tunnel to Sri Dalada Maligawa painted with lotus flower"
+    "objectID": "sdg.html#sdg-4-quality-education",
+    "href": "sdg.html#sdg-4-quality-education",
+    "title": "Contribution to Sustainable Development Goals (SDGs)",
+    "section": "SDG 4: Quality Education",
+    "text": "SDG 4: Quality Education\n\nContribution: Enhances STEM + Art (STEAM) learning by integrating history, art and mathematics\n\nCreate online open-access books that integrate mathematics and programming with art to promote mathematics among creative and artistically talented individuals.\nCreate an open-access digital archives support research and education\nGenerate mandala inspired by traditional Sri Lankan art which helps to improve mathematical thinking in stress relieving way."
   },
   {
-    "objectID": "index.html#motivation",
-    "href": "index.html#motivation",
-    "title": "Exploring Artistic Legacy: Analyzing Artifact Differences Across Kingdoms Using Machine Learning",
-    "section": "Motivation",
-    "text": "Motivation\nSri Lanka is a country with a rich cultural heritage. As both a Data Scientist and an Artist, observing the artifacts, historical paintings, and murals of our ancient kingdoms made me realize that these are not merely artistic expressions—they are deeply rooted in mathematical principles. This reinforces my belief: Behind every mathematician, there is an artist, and behind every artist, there is a mathematician.\nFigures 1 to 5 showcase examples from historical sites, featuring wall paintings and wooden carvings that I believe are grounded in mathematical concepts. When viewed from a mathematician’s perspective, these artworks reveal principles such as geometry, tessellation, symmetry, coloring algorithms, motifs, and more.\nThe goal of this research is to explore mathematical concepts embedded in artifacts and historical paintings through the lens of machine learning.\n\n\n\n\n\nFigure 1: Temple of the Tooth Relic (Sri Dalada Maligawa): Tunnel to Sri Dalada Maligawa painted with lotus flower\n\n\n\n\n\n\n\n\n\nFigure 2: Temple of the Tooth Relic (Sri Dalada Maligawa): Tunnel to Sri Dalada Maligawa painted with lotus flower (enlargement of wall paintings)\n\n\n\n\n\n\n\n\n\nFigure 3: Temple of the Tooth Relic (Sri Dalada Maligawa): Tunnel to Sri Dalada Maligawa painted with lotus flower (enlargement of wall paintings)\n\n\n\n\n\n\n\n\n\nFigure 4: Embekke Devalaya Wood Carvings)\n\n\n\n\n\n\n\n\n\nFigure 5: Embekke Devalaya Wood Carvings"
+    "objectID": "sdg.html#sdg-9-industry-innovation-and-infrastructure",
+    "href": "sdg.html#sdg-9-industry-innovation-and-infrastructure",
+    "title": "Contribution to Sustainable Development Goals (SDGs)",
+    "section": "SDG 9: Industry, Innovation, and Infrastructure",
+    "text": "SDG 9: Industry, Innovation, and Infrastructure\n\nContribution: Enhance scientific research and technological capabilities in industrial sector\n\nThis study leverages advanced computational techniques to analyze the evolution of artistic styles, integrating machine learning to drive innovation in the craft and creative industries."
+  },
+  {
+    "objectID": "sdg.html#sdg-11-sustainable-cities-and-communities",
+    "href": "sdg.html#sdg-11-sustainable-cities-and-communities",
+    "title": "Contribution to Sustainable Development Goals (SDGs)",
+    "section": "SDG 11: Sustainable Cities and Communities",
+    "text": "SDG 11: Sustainable Cities and Communities\n\nContribution: Strengthen efforts to protect and safeguard the world’s cultural and natural heritage\n\nOpen-access digital archives to preserve wall paintings and artifacts, ensuring their longevity while fostering cultural awareness and appreciation.\nUncovering mathematical patterns and structures in artifacts enhances their global recognition, attracting a wider audience and boosting cultural tourism."
+  },
+  {
+    "objectID": "sdg.html#sdg-12-responsible-consumption-and-production",
+    "href": "sdg.html#sdg-12-responsible-consumption-and-production",
+    "title": "Contribution to Sustainable Development Goals (SDGs)",
+    "section": "SDG 12: Responsible Consumption and Production",
+    "text": "SDG 12: Responsible Consumption and Production\n\nContribution: Reduce waste generation through prevention, reduction, and reuse strategies\n\nDigital preservation and machine learning modeling minimize the need for physical interventions, reducing material waste and costs."
+  },
+  {
+    "objectID": "sdg.html#sdg-17-partnerships-for-the-goals",
+    "href": "sdg.html#sdg-17-partnerships-for-the-goals",
+    "title": "Contribution to Sustainable Development Goals (SDGs)",
+    "section": "SDG 17: Partnerships for the Goals",
+    "text": "SDG 17: Partnerships for the Goals\n\nContribution: Encourages collaborations between AI researchers, historians, and cultural institutions.\nAll activities of the project."
   },
   {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Motivation",
     "section": "",
-    "text": "Sri Lanka is a country with a rich cultural heritage. As both a Data Scientist and an Artist, observing the artifacts, historical paintings, and murals of our ancient kingdoms made me realize that these are not merely artistic expressions—they are deeply rooted in mathematical principles. This reinforces my belief: Behind every mathematician, there is an artist, and behind every artist, there is a mathematician.\nFigures 1 to 5 showcase examples from historical sites, featuring wall paintings and wooden carvings that I believe are grounded in mathematical concepts. When viewed from a mathematician’s perspective, these artworks reveal principles such as geometry, tessellation, symmetry, coloring algorithms, motifs, and more.\nThe goal of this research is to explore mathematical concepts embedded in artifacts and historical paintings through the lens of machine learning."
+    "text": "Sri Lanka has a rich history of blending mathematics and art, especially in its ancient architecture, wall paintings, frescoes and murals. This study investigates the potential of machine learning to reveal mathematical patterns concealed in ancient paintings and artifacts.\nFigures 1 to 5 show some Sri Lankan wall paintings and artefacts embedded with mathematical principles such as geometry, tessellation, symmetry, coloring algorithms, motifs, and more. This further reinforces my belief: Behind every mathematician lies an artist, and behind every artist lies a mathematician.\n\n\n\n\n\nFigure 1: Temple of the Tooth Relic (Sri Dalada Maligawa): Tunnel to Sri Dalada Maligawa painted with lotus flower\n\n\n\n\n\n\n\n\n\nFigure 2: Temple of the Tooth Relic (Sri Dalada Maligawa): Tunnel to Sri Dalada Maligawa painted with lotus flower\n\n\n\n\n\n\n\n\n\nFigure 3: Embekka Devalaya was built by the King Vikramabahu III of Gampola Era in Sri Lanka\n\n\n\n\n\n\n\n\n\nFigure 4: Embekka Devalaya was built by the King Vikramabahu III of Gampola Era in Sri Lanka"
   },
   {
-    "objectID": "blog.html#contact",
-    "href": "blog.html#contact",
-    "title": "Motivation",
-    "section": "Contact",
-    "text": "Contact\nDr Thiyanga S. Talagala, Senior Lecturer, Faculty of Applied Sciences, University of Sri Jayewardenepura."
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Exploring Artistic Legacy: Analyzing Artifact Differences Across Kingdoms Using Machine Learning",
+    "section": "",
+    "text": "This research project is a new journey from Machine Learning to Kingdom Learning with Mathematics, Art and Data Science (MADS), exploring mathematical concepts embedded in historical paintings and their evolution across different kingdoms in Sri Lanka.\nThis research strongly aligns with the 2025 International Day of Mathematics theme: Mathematics, Art, and Creativity, emphasizing the importance of the intersection between mathematics and art.\n\n\n\n\n\nFigure 1: Temple of the Tooth Relic (Sri Dalada Maligawa): Tunnel to Sri Dalada Maligawa painted with lotus flower"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Exploring Artistic Legacy: Analyzing Artifact Differences Across Kingdoms Using Machine Learning",
+    "section": "",
+    "text": "This research project is a new journey from Machine Learning to Kingdom Learning with Mathematics, Art and Data Science (MADS), exploring mathematical concepts embedded in historical paintings and their evolution across different kingdoms in Sri Lanka.\nThis research strongly aligns with the 2025 International Day of Mathematics theme: Mathematics, Art, and Creativity, emphasizing the importance of the intersection between mathematics and art.\n\n\n\n\n\nFigure 1: Temple of the Tooth Relic (Sri Dalada Maligawa): Tunnel to Sri Dalada Maligawa painted with lotus flower"
   },
   {
     "objectID": "index.html#contact",

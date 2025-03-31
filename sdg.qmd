@@ -1,0 +1,47 @@
+---
+title: "Contribution to Sustainable Development Goals (SDGs)"
+---
+
+
+
+Research plays a vital role in achieving the Sustainable Development Goals (SDGs).
+
+## SDG 4: Quality Education
+
+### Contribution: Enhances STEM + Art (STEAM) learning by integrating history, art and mathematics
+
+1. Create online open-access books that integrate mathematics and
+programming with art to promote mathematics among creative and artistically talented individuals.
+
+2. Create an open-access digital archives support research and education
+
+3. Generate mandala inspired by traditional Sri Lankan art which helps to improve mathematical thinking in stress relieving way.
+
+## SDG 9: Industry, Innovation, and Infrastructure
+
+### Contribution: Enhance scientific research and technological capabilities in industrial sector
+
+1. This study leverages advanced computational techniques to analyze the evolution of artistic styles, integrating machine learning to drive innovation in the craft and creative industries.
+
+
+##  SDG 11: Sustainable Cities and Communities
+
+### Contribution: Strengthen efforts to protect and safeguard the world’s cultural and natural heritage
+
+1. Open-access digital archives to preserve wall paintings and artifacts, ensuring their longevity while fostering cultural awareness and appreciation.
+
+2. Uncovering mathematical patterns and structures in artifacts enhances their global recognition, attracting a wider audience and boosting cultural tourism.
+
+
+## SDG 12: Responsible Consumption and Production
+
+### Contribution: Reduce waste generation through prevention, reduction, and reuse strategies
+
+1. Digital preservation and machine learning modeling minimize the need for physical interventions, reducing material waste and costs.
+
+## SDG 17: Partnerships for the Goals
+
+
+### Contribution: Encourages collaborations between AI researchers, historians, and cultural institutions.
+
+All activities of the project.

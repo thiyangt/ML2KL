@@ -2,10 +2,23 @@
 title: "Motivation"
 ---
 
-
-Sri Lanka is a country with a rich cultural heritage. As both a data Scientist and an artist, observing the artifacts, historical paintings, and murals of our ancient kingdoms made me realize that these are not merely artistic expressions—they are deeply rooted in mathematical principles. This reinforces my belief: Behind every mathematician, there is an artist, and behind every artist, there is a mathematician.
-
-Figures 1 to 5 showcase examples from historical sites, featuring wall paintings and wooden carvings that I believe are grounded in mathematical concepts. When viewed from a mathematician’s perspective, these artworks reveal principles such as geometry, tessellation, symmetry, coloring algorithms, motifs, and more.
+Sri Lanka has a rich history of blending mathematics and art, especially in its ancient architecture, wall paintings, frescoes and murals.   This study investigates the potential of machine learning to reveal mathematical patterns concealed in ancient paintings and artifacts. 
 
 
+Figures 1 to 5 show some Sri Lankan wall paintings and artefacts embedded with mathematical principles such as geometry, tessellation, symmetry, coloring algorithms, motifs, and more. This further reinforces my belief: Behind every mathematician lies an artist, and behind every artist lies a mathematician.
 
+```{r, fig.cap="Figure 1: Temple of the Tooth Relic (Sri Dalada Maligawa): Tunnel to Sri Dalada Maligawa painted with lotus flower", fig.width=5, fig.height=5, echo=FALSE}
+knitr::include_graphics("img/kandy2.png")
+```
+
+```{r, fig.cap="Figure 2: Temple of the Tooth Relic (Sri Dalada Maligawa): Tunnel to Sri Dalada Maligawa painted with lotus flower", fig.width=5, fig.height=5, echo=FALSE}
+knitr::include_graphics("img/kandy1.png")
+```
+
+```{r, fig.cap="Figure 3: Embekka Devalaya was built by the King Vikramabahu III of Gampola Era in Sri Lanka", fig.width=5, fig.height=5, echo=FALSE}
+knitr::include_graphics("img/Em1.jpg")
+```
+
+```{r, fig.cap="Figure 4: Embekka Devalaya was built by the King Vikramabahu III of Gampola Era in Sri Lanka", fig.width=5, fig.height=5, echo=FALSE}
+knitr::include_graphics("img/Em2.jpg")
+```
