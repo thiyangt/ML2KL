@@ -10,6 +10,8 @@ website:
         text: About
       - href: blog.qmd
         text: Motivation to Project
+      - href: outcome.qmd
+        text: Project Outcomes
       - href: sdg.qmd
         text: Contribution to SDGs
 

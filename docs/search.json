@@ -18,7 +18,7 @@
     "href": "sdg.html#sdg-9-industry-innovation-and-infrastructure",
     "title": "Contribution to Sustainable Development Goals (SDGs)",
     "section": "SDG 9: Industry, Innovation, and Infrastructure",
-    "text": "SDG 9: Industry, Innovation, and Infrastructure\n\nContribution: Enhance scientific research and technological capabilities in industrial sector\n\nThis study leverages advanced computational techniques to analyze the evolution of artistic styles, integrating machine learning to drive innovation in the craft and creative industries."
+    "text": "SDG 9: Industry, Innovation, and Infrastructure\n\nContribution: Enhance scientific research and technological capabilities in industrial sector\n\nThis study leverages advanced computational techniques to analyze the evolution of artistic styles, integrating machine learning to drive innovation in the craft and creative industries.\nCreate an atlas of mathematics rooted artifact locations to boost tourism industry."
   },
   {
     "objectID": "sdg.html#sdg-11-sustainable-cities-and-communities",
@@ -46,7 +46,7 @@
     "href": "blog.html",
     "title": "Motivation",
     "section": "",
-    "text": "Sri Lanka has a rich history of blending mathematics and art, especially in its ancient architecture, wall paintings, frescoes and murals. This study investigates the potential of machine learning to reveal mathematical patterns concealed in ancient paintings and artifacts.\nFigures 1 to 5 show some Sri Lankan wall paintings and artefacts embedded with mathematical principles such as geometry, tessellation, symmetry, coloring algorithms, motifs, and more. This further reinforces my belief: Behind every mathematician lies an artist, and behind every artist lies a mathematician.\n\n\n\n\n\nFigure 1: Temple of the Tooth Relic (Sri Dalada Maligawa): Tunnel to Sri Dalada Maligawa painted with lotus flower\n\n\n\n\n\n\n\n\n\nFigure 2: Temple of the Tooth Relic (Sri Dalada Maligawa): Tunnel to Sri Dalada Maligawa painted with lotus flower\n\n\n\n\n\n\n\n\n\nFigure 3: Embekka Devalaya was built by the King Vikramabahu III of Gampola Era in Sri Lanka\n\n\n\n\n\n\n\n\n\nFigure 4: Embekka Devalaya was built by the King Vikramabahu III of Gampola Era in Sri Lanka"
+    "text": "Sri Lanka has a rich history of blending mathematics and art, especially in its ancient architecture, wall paintings, frescoes and murals. The main goal of this project is to develop machine learning algorithms to uncover mathematical concepts rooted in historical paintings and artefacts of Sri Lanka.\nFigures 1 to 5 show some Sri Lankan wall paintings and artefacts embedded with mathematical principles such as geometry, tessellation, symmetry, coloring algorithms, and motif. Hence, these elements are not just artistic choices but are deeply rooted in mathematics. This further reinforces my belief: behind every mathematician there is an artist, and behind every artist there is a mathematician.\n\n\n\n\n\nFigure 1: Temple of the Tooth Relic (Sri Dalada Maligawa): Tunnel to Sri Dalada Maligawa painted with lotus flower\n\n\n\n\n\n\n\n\n\nFigure 2: Temple of the Tooth Relic (Sri Dalada Maligawa): Tunnel to Sri Dalada Maligawa painted with lotus flower\n\n\n\n\n\n\n\n\n\nFigure 3: Embekka Devalaya was built by the King Vikramabahu III of Gampola Era in Sri Lanka\n\n\n\n\n\n\n\n\n\nFigure 4: Embekka Devalaya was built by the King Vikramabahu III of Gampola Era in Sri Lanka"
   },
   {
     "objectID": "index.html",
@@ -68,5 +68,47 @@
     "title": "Exploring Artistic Legacy: Analyzing Artifact Differences Across Kingdoms Using Machine Learning",
     "section": "Contact",
     "text": "Contact\nDr Thiyanga S. Talagala, Senior Lecturer, Faculty of Applied Sciences, University of Sri Jayewardenepura."
+  },
+  {
+    "objectID": "outcome.html",
+    "href": "outcome.html",
+    "title": "Project Outcomes",
+    "section": "",
+    "text": "SDG 4 (Quality Education): Open-access digital archives support research and education.\nSDG 11 (Sustainable Cities & Communities): Preserves Sri Lankan heritage for future generations."
+  },
+  {
+    "objectID": "outcome.html#collect-and-digitize-ancient-sri-lankan-wall-paintings-and-artifacts",
+    "href": "outcome.html#collect-and-digitize-ancient-sri-lankan-wall-paintings-and-artifacts",
+    "title": "Project Outcomes",
+    "section": "",
+    "text": "SDG 4 (Quality Education): Open-access digital archives support research and education.\nSDG 11 (Sustainable Cities & Communities): Preserves Sri Lankan heritage for future generations."
+  },
+  {
+    "objectID": "outcome.html#develop-an-algorithm-to-enhance-image-quality-for-analysis",
+    "href": "outcome.html#develop-an-algorithm-to-enhance-image-quality-for-analysis",
+    "title": "Project Outcomes",
+    "section": "2. Develop an Algorithm to Enhance Image Quality for Analysis",
+    "text": "2. Develop an Algorithm to Enhance Image Quality for Analysis\n\nSDG 9 (Industry, Innovation & Infrastructure): AI-driven restoration aids cultural conservation."
+  },
+  {
+    "objectID": "outcome.html#create-machine-learning-models-to-identify-mathematical-patterns-in-art",
+    "href": "outcome.html#create-machine-learning-models-to-identify-mathematical-patterns-in-art",
+    "title": "Project Outcomes",
+    "section": "3. Create Machine Learning Models to Identify Mathematical Patterns in Art",
+    "text": "3. Create Machine Learning Models to Identify Mathematical Patterns in Art\n\nSDG 4 (Quality Education): Encourages interdisciplinary learning in mathematics, art, and AI.\nSDG 9 (Innovation & AI in Cultural Studies): Bridges historical art and modern technology."
+  },
+  {
+    "objectID": "outcome.html#develop-a-classification-algorithm-for-historical-periods-of-artifacts-paintings",
+    "href": "outcome.html#develop-a-classification-algorithm-for-historical-periods-of-artifacts-paintings",
+    "title": "Project Outcomes",
+    "section": "4. Develop a Classification Algorithm for Historical Periods of Artifacts & Paintings",
+    "text": "4. Develop a Classification Algorithm for Historical Periods of Artifacts & Paintings\n\nSDG 11 (Sustainable Cities & Communities): Digital classification helps heritage conservation efforts.\nSDG 9 (Industry & Innovation): Enables AI-powered cultural research."
+  },
+  {
+    "objectID": "outcome.html#create-a-documentary-showcasing-the-discoveries-to-promote-tourism-and-attract-a-wider-audience.-additionally-create-online-open-access-books-that-integrate-mathematics-and-programming-with-art",
+    "href": "outcome.html#create-a-documentary-showcasing-the-discoveries-to-promote-tourism-and-attract-a-wider-audience.-additionally-create-online-open-access-books-that-integrate-mathematics-and-programming-with-art",
+    "title": "Project Outcomes",
+    "section": "5. Create a documentary showcasing the discoveries to promote tourism and attract a wider audience. Additionally, create online open-access books that integrate mathematics and programming with art",
+    "text": "5. Create a documentary showcasing the discoveries to promote tourism and attract a wider audience. Additionally, create online open-access books that integrate mathematics and programming with art\n\nSDG 4 (Education & Awareness): Promotes mathematics using art and creativity."
   }
 ]

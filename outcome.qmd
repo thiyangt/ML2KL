@@ -1,0 +1,31 @@
+---
+title: "Project Goals"
+---
+
+
+## 1. Collect and Digitize Ancient Sri Lankan Wall Paintings and Artifacts
+
+
+- SDG 4 (Quality Education): Open-access digital archives support research and education.
+
+- SDG 11 (Sustainable Cities & Communities): Preserves Sri Lankan heritage for future generations.
+ 
+## 2.  Develop an Algorithm to Enhance Image Quality for Analysis
+
+- SDG 9 (Industry, Innovation & Infrastructure): AI-driven restoration aids cultural conservation.
+
+## 3. Create Machine Learning Models to Identify Mathematical Patterns in Art
+
+- SDG 4 (Quality Education): Encourages interdisciplinary learning in mathematics, art, and AI.
+
+- SDG 9 (Innovation & AI in Cultural Studies): Bridges historical art and modern technology.
+
+## 4. Develop a Classification Algorithm for Historical Periods of Artifacts & Paintings
+
+- SDG 11 (Sustainable Cities & Communities): Digital classification helps heritage conservation efforts.
+
+- SDG 9 (Industry & Innovation): Enables AI-powered cultural research.
+
+## 5. Create a documentary showcasing the discoveries to promote tourism and attract a wider audience. Additionally, create online open-access books that integrate mathematics and programming with art
+
+ - SDG 4 (Education & Awareness): Promotes mathematics using art and creativity.
