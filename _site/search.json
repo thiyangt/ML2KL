@@ -9,8 +9,8 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Motivation",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Sri Lanka is a country with a rich cultural heritage. Being a Data Scientist and an Artist, observing the artifacts, historical paintings, and murals of our ancient kingdoms made me realize that these are not merely artistic choices—they are deeply rooted in mathematical principles. This reinforces my belief: Behind every mathematician, there is an artist, and behind every artist, there is a mathematician.\nBelow are some examples from our historical sites that illustrate this idea:\n\nknitr::include_graphics(\"img/Kandy3.jpg\")\n\n\n\n\nTemple of the Tooth Relic (Sri Dalada Maligawa): Tunnel to Sri Dalada Maligawa painted with lotus flower\n\n\n\n\n\nknitr::include_graphics(\"img/kandy2.png\")\n\n\n\n\nTemple of the Tooth Relic (Sri Dalada Maligawa): Tunnel to Sri Dalada Maligawa painted with lotus flower (enlargement of wall paintings)\n\n\n\n\n\nknitr::include_graphics(\"img/kandy1.png\")\n\n\n\n\nTemple of the Tooth Relic (Sri Dalada Maligawa): Tunnel to Sri Dalada Maligawa painted with lotus flower (enlargement of wall paintings)\n\n\n\n\nFigure 1: Temple of the Tooth Relic (Sri Dalada Maligawa): Tunnel to Sri Dalada Maligawa painted with lotus flower"
   }
 ]

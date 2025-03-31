@@ -2,4 +2,26 @@
 title: "Motivation"
 ---
 
-Sri Lanka is a country with rich cultural heritage. The vibrant 
+Sri Lanka is a country with a rich cultural heritage. Being a Data Scientist and an Artist, observing the artifacts, historical paintings, and murals of our ancient kingdoms made me realize that these are not merely artistic choices—they are deeply rooted in mathematical principles. This reinforces my belief: **Behind every mathematician, there is an artist, and behind every artist, there is a mathematician**. 
+
+Below are some examples from our historical sites that illustrate this idea:
+
+
+```{r, fig.cap="Temple of the Tooth Relic (Sri Dalada Maligawa): Tunnel to Sri Dalada Maligawa painted with lotus flower"}
+knitr::include_graphics("img/Kandy3.jpg")
+```
+
+```{r, fig.cap="Temple of the Tooth Relic (Sri Dalada Maligawa): Tunnel to Sri Dalada Maligawa painted with lotus flower (enlargement of  wall paintings)"}
+knitr::include_graphics("img/kandy2.png")
+```
+
+```{r, fig.cap="Temple of the Tooth Relic (Sri Dalada Maligawa): Tunnel to Sri Dalada Maligawa painted with lotus flower (enlargement of wall paintings)"}
+knitr::include_graphics("img/kandy1.png")
+```
+
+
+
+
+
+
+Figure 1: Temple of the Tooth Relic (Sri Dalada Maligawa): Tunnel to Sri Dalada Maligawa painted with lotus flower
