@@ -7,9 +7,9 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Motivation to Project
+        text: About
       - href: blog.qmd
-        text: Contact
+        text: Motivation to Project
 
 format:
   html:
