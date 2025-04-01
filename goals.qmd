@@ -16,7 +16,7 @@ title: "Project Goals and Contribution to SDGs"
 
 -   SDG 9 (Industry, Innovation & Infrastructure): AI-driven restoration aids cultural conservation.
 
-## 3. Create machine learning models to identify mathematical patterns such as symmetry, tessellation, the golden ratio, geometries, motif and coloring algorithms rooted in historical paintings and artifacts
+## 3. Create machine learning models to identify mathematical concepts rooted in historical paintings and artifact (for example symmetry, tessellation, the golden ratio, geometries, motif and coloring algorithms)
 
 -   SDG 4 (Quality Education): Encourages interdisciplinary learning in mathematics, art, and data science.
 
@@ -24,7 +24,7 @@ title: "Project Goals and Contribution to SDGs"
 
 -   SDG 11 (Sustainable Cities and Communities): Uncovering mathematical patterns and structures in artifacts enhances their global recognition, attracting a wider audience and boosting cultural tourism. This method can also be used as a way to authenticate our artifacts.
 
-## 4. Develop a classification algorithm to determine the historical period of artifacts and paintings.
+## 4. Develop a classification algorithm to determine the historical period of artifacts and paintings and explore spatio-temporal dynamics of artistic styles.
 
 -   SDG 9 (Industry & Innovation): Enables data science powered cultural research.
 
