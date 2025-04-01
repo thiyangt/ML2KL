@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Project Goals and Contribution to SDGs – Machine Learning to Kingdom Learning (ML2KL)</title>
+<title>Results Already Achieved – Machine Learning to Kingdom Learning (ML2KL)</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -19,6 +19,40 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -97,8 +131,12 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Motivation to Project</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./outcome.html" aria-current="page"> 
+    <a class="nav-link" href="./goals.html"> 
 <span class="menu-text">Project Goals and Contribution to SDGs</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./outcome.html" aria-current="page"> 
+<span class="menu-text">Results Already Achieved</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -116,11 +154,17 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#collect-and-digitize-ancient-sri-lankan-wall-paintings-and-artifacts-to-build-a-comprehensive-and-accessible-database" id="toc-collect-and-digitize-ancient-sri-lankan-wall-paintings-and-artifacts-to-build-a-comprehensive-and-accessible-database" class="nav-link active" data-scroll-target="#collect-and-digitize-ancient-sri-lankan-wall-paintings-and-artifacts-to-build-a-comprehensive-and-accessible-database">1. Collect and digitize ancient Sri Lankan wall paintings and artifacts to build a comprehensive and accessible database</a></li>
-  <li><a href="#develop-an-algorithm-to-enhance-image-quality-for-analysis" id="toc-develop-an-algorithm-to-enhance-image-quality-for-analysis" class="nav-link" data-scroll-target="#develop-an-algorithm-to-enhance-image-quality-for-analysis">2. Develop an algorithm to enhance image quality for analysis</a></li>
-  <li><a href="#create-machine-learning-models-to-identify-mathematical-patterns-such-as-symmetry-tessellation-and-the-golden-ratio-geometries-and-coloring-techniques-rooted-in-historical-paintings-and-artifacts" id="toc-create-machine-learning-models-to-identify-mathematical-patterns-such-as-symmetry-tessellation-and-the-golden-ratio-geometries-and-coloring-techniques-rooted-in-historical-paintings-and-artifacts" class="nav-link" data-scroll-target="#create-machine-learning-models-to-identify-mathematical-patterns-such-as-symmetry-tessellation-and-the-golden-ratio-geometries-and-coloring-techniques-rooted-in-historical-paintings-and-artifacts">3. Create machine learning models to identify mathematical patterns (such as symmetry, tessellation, and the golden ratio), geometries, and coloring techniques rooted in historical paintings and artifacts</a></li>
-  <li><a href="#develop-a-classification-algorithm-to-determine-the-historical-period-of-artifacts-and-paintings." id="toc-develop-a-classification-algorithm-to-determine-the-historical-period-of-artifacts-and-paintings." class="nav-link" data-scroll-target="#develop-a-classification-algorithm-to-determine-the-historical-period-of-artifacts-and-paintings.">4. Develop a classification algorithm to determine the historical period of artifacts and paintings.</a></li>
-  <li><a href="#create-a-documentary-showcasing-the-discoveries-to-promote-tourism-and-attract-a-wider-audience.-additionally-create-online-open-access-books-that-integrate-mathematics-and-programming-with-art-and-generate-mandala-inspired-by-traditional-sri-lankan-art-which-helps-to-improve-mathematical-thinking-in-stress-relieving-way" id="toc-create-a-documentary-showcasing-the-discoveries-to-promote-tourism-and-attract-a-wider-audience.-additionally-create-online-open-access-books-that-integrate-mathematics-and-programming-with-art-and-generate-mandala-inspired-by-traditional-sri-lankan-art-which-helps-to-improve-mathematical-thinking-in-stress-relieving-way" class="nav-link" data-scroll-target="#create-a-documentary-showcasing-the-discoveries-to-promote-tourism-and-attract-a-wider-audience.-additionally-create-online-open-access-books-that-integrate-mathematics-and-programming-with-art-and-generate-mandala-inspired-by-traditional-sri-lankan-art-which-helps-to-improve-mathematical-thinking-in-stress-relieving-way">5. Create a documentary showcasing the discoveries to promote tourism and attract a wider audience. Additionally, create online open-access books that integrate mathematics and programming with art and generate mandala inspired by traditional Sri Lankan art which helps to improve mathematical thinking in stress relieving way</a></li>
+  <li><a href="#project-1" id="toc-project-1" class="nav-link active" data-scroll-target="#project-1">Project 1</a></li>
+  <li><a href="#abstract" id="toc-abstract" class="nav-link" data-scroll-target="#abstract">Abstract</a>
+  <ul class="collapse">
+  <li><a href="#exploring-the-evolution-of-color-palettes-in-ancient-wall-paintings-across-different-kingdoms-using-machine-learning" id="toc-exploring-the-evolution-of-color-palettes-in-ancient-wall-paintings-across-different-kingdoms-using-machine-learning" class="nav-link" data-scroll-target="#exploring-the-evolution-of-color-palettes-in-ancient-wall-paintings-across-different-kingdoms-using-machine-learning">Exploring the Evolution of Color Palettes in Ancient Wall Paintings Across Different Kingdoms Using Machine Learning</a></li>
+  <li><a href="#graphical-abstract" id="toc-graphical-abstract" class="nav-link" data-scroll-target="#graphical-abstract">Graphical Abstract</a></li>
+  <li><a href="#methodology-used-to-extract-hexadecimal-colour-values" id="toc-methodology-used-to-extract-hexadecimal-colour-values" class="nav-link" data-scroll-target="#methodology-used-to-extract-hexadecimal-colour-values">Methodology Used to Extract Hexadecimal Colour Values</a></li>
+  </ul></li>
+  <li><a href="#project-2" id="toc-project-2" class="nav-link" data-scroll-target="#project-2">Project 2</a>
+  <ul class="collapse">
+  <li><a href="#development-of-an-r-package-for-creating-an-atlas-of-mathematically-rooted-artifacts" id="toc-development-of-an-r-package-for-creating-an-atlas-of-mathematically-rooted-artifacts" class="nav-link" data-scroll-target="#development-of-an-r-package-for-creating-an-atlas-of-mathematically-rooted-artifacts">Development of an R Package for Creating an Atlas of Mathematically Rooted Artifacts</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -129,7 +173,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Project Goals and Contribution to SDGs</h1>
+<h1 class="title">Results Already Achieved</h1>
 </div>
 
 
@@ -146,44 +190,60 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="collect-and-digitize-ancient-sri-lankan-wall-paintings-and-artifacts-to-build-a-comprehensive-and-accessible-database" class="level2">
-<h2 class="anchored" data-anchor-id="collect-and-digitize-ancient-sri-lankan-wall-paintings-and-artifacts-to-build-a-comprehensive-and-accessible-database">1. Collect and digitize ancient Sri Lankan wall paintings and artifacts to build a comprehensive and accessible database</h2>
-<ul>
-<li><p>SDG 4 (Quality Education): Open-access digital archives support research and education.</p></li>
-<li><p>SDG 9 (Industry, Innovation, and Infrastructure): Create an atlas of mathematics rooted artifact locations to boost tourism industry</p></li>
-<li><p>SDG 11 (Sustainable Cities &amp; Communities): Preserves Sri Lankan heritage for future generations.</p></li>
-<li><p>SDG 12 (Responsible Consumption and Production): Digital preservation and machine learning modeling minimize the need for physical interventions, reducing material waste and costs.</p></li>
-</ul>
+<section id="project-1" class="level1">
+<h1>Project 1</h1>
 </section>
-<section id="develop-an-algorithm-to-enhance-image-quality-for-analysis" class="level2">
-<h2 class="anchored" data-anchor-id="develop-an-algorithm-to-enhance-image-quality-for-analysis">2. Develop an algorithm to enhance image quality for analysis</h2>
-<ul>
-<li>SDG 9 (Industry, Innovation &amp; Infrastructure): AI-driven restoration aids cultural conservation.</li>
-</ul>
+<section id="abstract" class="level1">
+<h1>Abstract</h1>
+<section id="exploring-the-evolution-of-color-palettes-in-ancient-wall-paintings-across-different-kingdoms-using-machine-learning" class="level2">
+<h2 class="anchored" data-anchor-id="exploring-the-evolution-of-color-palettes-in-ancient-wall-paintings-across-different-kingdoms-using-machine-learning">Exploring the Evolution of Color Palettes in Ancient Wall Paintings Across Different Kingdoms Using Machine Learning</h2>
+<p><em>Thiyanga S. Talagala, Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura</em></p>
+<p>Sri Lanka is home to a rich cultural heritage, including vibrant ancient wall paintings. However, limited research has applied data science to analyze these artistic treasures. This study investigates variations in color palettes across different historical kingdoms using machine learning. Digital images of wall paintings were collected from Kandy, Dambulla, and Sigiriya. Hexadecimal color values were extracted from each image to quantify the dominant hues. A supervised machine learning algorithm was then trained to classify paintings based on their respective kingdoms using color patterns. The model demonstrated high accuracy in predicting the kingdoms. This research provides new insights into the artistic evolution of ancient wall paintings.</p>
 </section>
-<section id="create-machine-learning-models-to-identify-mathematical-patterns-such-as-symmetry-tessellation-and-the-golden-ratio-geometries-and-coloring-techniques-rooted-in-historical-paintings-and-artifacts" class="level2">
-<h2 class="anchored" data-anchor-id="create-machine-learning-models-to-identify-mathematical-patterns-such-as-symmetry-tessellation-and-the-golden-ratio-geometries-and-coloring-techniques-rooted-in-historical-paintings-and-artifacts">3. Create machine learning models to identify mathematical patterns (such as symmetry, tessellation, and the golden ratio), geometries, and coloring techniques rooted in historical paintings and artifacts</h2>
-<ul>
-<li><p>SDG 4 (Quality Education): Encourages interdisciplinary learning in mathematics, art, and AI.</p></li>
-<li><p>SDG 9 (Innovation &amp; AI in Cultural Studies): Bridges historical art and modern technology.</p></li>
-<li><p>SDG 11 (Sustainable Cities and Communities): Uncovering mathematical patterns and structures in artifacts enhances their global recognition, attracting a wider audience and boosting cultural tourism.</p></li>
-</ul>
+<section id="graphical-abstract" class="level2">
+<h2 class="anchored" data-anchor-id="graphical-abstract">Graphical Abstract</h2>
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="img/ga.png" class="img-fluid figure-img" width="800"></p>
+</figure>
+</div>
+</div>
+</div>
 </section>
-<section id="develop-a-classification-algorithm-to-determine-the-historical-period-of-artifacts-and-paintings." class="level2">
-<h2 class="anchored" data-anchor-id="develop-a-classification-algorithm-to-determine-the-historical-period-of-artifacts-and-paintings.">4. Develop a classification algorithm to determine the historical period of artifacts and paintings.</h2>
-<ul>
-<li><p>SDG 9 (Industry &amp; Innovation): Enables data science powered cultural research.</p></li>
-<li><p>SDG 11 (Sustainable Cities &amp; Communities): Digital classification helps heritage conservation efforts.</p></li>
-<li><p>SDG 17 (Partnerships for the Goals): Encourages collaborations between data scientists, historians, and cultural institutions</p></li>
-</ul>
+<section id="methodology-used-to-extract-hexadecimal-colour-values" class="level2">
+<h2 class="anchored" data-anchor-id="methodology-used-to-extract-hexadecimal-colour-values">Methodology Used to Extract Hexadecimal Colour Values</h2>
+<p>The <a href="https://github.com/doehm/eyedroppeR">eyedroppeR</a> in R was used to extract Hexadecimal colour values from the image. An reproducible code is here:</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">#devtools::install_github("doehm/eyedroppeR")</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(eyedroppeR)</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>path <span class="ot">&lt;-</span> <span class="st">"img/example.jpg"</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="fu">extract_pal</span>(<span class="dv">12</span>, path, <span class="at">label =</span> <span class="st">"Dambulla"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="img/hex.png" class="img-fluid figure-img" width="530"></p>
+</figure>
+</div>
+</div>
+</div>
 </section>
-<section id="create-a-documentary-showcasing-the-discoveries-to-promote-tourism-and-attract-a-wider-audience.-additionally-create-online-open-access-books-that-integrate-mathematics-and-programming-with-art-and-generate-mandala-inspired-by-traditional-sri-lankan-art-which-helps-to-improve-mathematical-thinking-in-stress-relieving-way" class="level2">
-<h2 class="anchored" data-anchor-id="create-a-documentary-showcasing-the-discoveries-to-promote-tourism-and-attract-a-wider-audience.-additionally-create-online-open-access-books-that-integrate-mathematics-and-programming-with-art-and-generate-mandala-inspired-by-traditional-sri-lankan-art-which-helps-to-improve-mathematical-thinking-in-stress-relieving-way">5. Create a documentary showcasing the discoveries to promote tourism and attract a wider audience. Additionally, create online open-access books that integrate mathematics and programming with art and generate mandala inspired by traditional Sri Lankan art which helps to improve mathematical thinking in stress relieving way</h2>
-<ul>
-<li>SDG 4 (Education &amp; Awareness): Enhances STEM + Art (STEAM) learning by integrating history, art and mathematics.</li>
-</ul>
+</section>
+<section id="project-2" class="level1">
+<h1>Project 2</h1>
+<section id="development-of-an-r-package-for-creating-an-atlas-of-mathematically-rooted-artifacts" class="level2">
+<h2 class="anchored" data-anchor-id="development-of-an-r-package-for-creating-an-atlas-of-mathematically-rooted-artifacts">Development of an R Package for Creating an Atlas of Mathematically Rooted Artifacts</h2>
+<p>The development version of the package is available in my github repository at <a href="https://github.com/thiyangt/SriLanka">https://github.com/thiyangt/SriLanka</a></p>
+<p>You can install the development version of SriLanka from GitHub with:</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="co"># install.packages("devtools")</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>devtools<span class="sc">::</span><span class="fu">install_github</span>(<span class="st">"thiyangt/SriLanka"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p><img src="hex.png" class="img-fluid"></p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->

@@ -1,40 +1,55 @@
 ---
-title: "Project Goals and Contribution to SDGs"
+title: "Results Already Achieved "
 ---
 
+# Project 1
 
-## 1. Collect and digitize ancient Sri Lankan wall paintings and artifacts to build a comprehensive and accessible database
+# Abstract
 
+## Exploring the Evolution of Color Palettes in Ancient Wall Paintings Across Different Kingdoms Using Machine Learning
 
-- SDG 4 (Quality Education): Open-access digital archives support research and education.
+*Thiyanga S. Talagala, Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura*
 
-- SDG 9 (Industry, Innovation, and Infrastructure): Create an atlas of mathematics rooted artifact locations to boost tourism industry
+Sri Lanka is home to a rich cultural heritage, including vibrant ancient wall paintings. However, limited research has applied data science to analyze these artistic treasures. This study investigates variations in color palettes across different historical kingdoms using machine learning. Digital images of wall paintings were collected from Kandy, Dambulla, and Sigiriya. Hexadecimal color values were extracted from each image to quantify the dominant hues. A supervised machine learning algorithm was then trained to classify paintings based on their respective kingdoms using color patterns. The model demonstrated high accuracy in predicting the kingdoms. This research provides new insights into the artistic evolution of ancient wall paintings.
 
-- SDG 11 (Sustainable Cities & Communities): Preserves Sri Lankan heritage for future generations.
-
-- SDG 12 (Responsible Consumption and Production): Digital preservation and machine learning modeling minimize the need for physical interventions, reducing material waste and costs. 
- 
-## 2.  Develop an algorithm to enhance image quality for analysis
-
-- SDG 9 (Industry, Innovation & Infrastructure): AI-driven restoration aids cultural conservation.
-
-## 3. Create machine learning models to identify mathematical patterns (such as symmetry, tessellation, and the golden ratio), geometries, and coloring techniques rooted in historical paintings and artifacts
-
-- SDG 4 (Quality Education): Encourages interdisciplinary learning in mathematics, art, and AI.
-
-- SDG 9 (Innovation & AI in Cultural Studies): Bridges historical art and modern technology.
-
-- SDG 11 (Sustainable Cities and Communities): Uncovering mathematical patterns and structures in artifacts enhances their global recognition, attracting a wider audience and boosting cultural tourism.
-
-## 4. Develop a classification algorithm to determine the historical period of artifacts and paintings.
-
-- SDG 9 (Industry & Innovation): Enables data science powered cultural research.
-
-- SDG 11 (Sustainable Cities & Communities): Digital classification helps heritage conservation efforts.
-
-- SDG 17 (Partnerships for the Goals): Encourages collaborations between data scientists, historians, and cultural institutions
+## Graphical Abstract
 
 
-## 5. Create a documentary showcasing the discoveries to promote tourism and attract a wider audience. Additionally, create online open-access books that integrate mathematics and programming with art and generate mandala inspired by traditional Sri Lankan art which helps to improve mathematical thinking in stress relieving way
+```{r, echo=FALSE}
+knitr::include_graphics("img/ga.png")
+```
 
- - SDG 4 (Education & Awareness): Enhances STEM + Art (STEAM) learning by integrating history, art and mathematics.
+## Methodology Used to Extract Hexadecimal Colour Values
+
+The [eyedroppeR](https://github.com/doehm/eyedroppeR) in R was used to extract Hexadecimal colour values from the image. An reproducible code is here:
+
+```{r, eval=FALSE}
+#devtools::install_github("doehm/eyedroppeR")
+library(eyedroppeR)
+path <- "img/example.jpg"
+extract_pal(12, path, label = "Dambulla")
+```
+
+```{r, echo=FALSE}
+knitr::include_graphics("img/hex.png")
+```
+
+# Project 2
+
+## Development of an R Package for Creating an Atlas of Mathematically Rooted Artifacts
+
+The development version of the package is available in my github repository at [https://github.com/thiyangt/SriLanka](https://github.com/thiyangt/SriLanka)
+
+You can install the development version of SriLanka from GitHub with:
+
+```r
+# install.packages("devtools")
+devtools::install_github("thiyangt/SriLanka")
+```
+
+
+![](hex.png)
+
+
+
+

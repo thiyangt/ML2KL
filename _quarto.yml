@@ -10,8 +10,11 @@ website:
         text: About
       - href: blog.qmd
         text: Motivation to Project
-      - href: outcome.qmd
+      - href: goals.qmd
         text: Project Goals and Contribution to SDGs
+      - href: outcome.qmd
+        text: Results Already Achieved 
+
 
 
 format:
