@@ -2,9 +2,9 @@
 title: "Motivation"
 ---
 
-Sri Lanka has a rich history of blending mathematics and art, especially in its ancient architecture, wall paintings, frescoes and murals. The main goal of this project is to develop machine learning algorithms to uncover mathematical concepts rooted in historical paintings and artefacts of Sri Lanka.  
+Sri Lanka has a rich history of blending mathematics and art, especially in its ancient architecture, wall paintings, frescoes and murals. The main goal of this project is to develop machine learning algorithms to uncover mathematical concepts rooted in historical paintings and artefacts of Sri Lanka.
 
-Figures 1 to 5 show some Sri Lankan wall paintings and artefacts embedded with mathematical principles such as geometry, tessellation, symmetry, coloring algorithms, and motif. Hence, these elements are not just artistic choices but are deeply rooted in mathematics. This further reinforces my belief: **behind every mathematician there is an artist, and behind every artist there is a mathematician**.
+Figures 1 to 5 show some Sri Lankan wall paintings and artefacts embedded with mathematical principles such as geometry, tessellation, symmetry, coloring algorithms, and motif. Clearly, these elements are not just artistic choices but are deeply rooted in mathematics. This further reinforces my belief: **behind every mathematician there is an artist, and behind every artist there is a mathematician**.
 
 ```{r, fig.cap="Figure 1: Temple of the Tooth Relic (Sri Dalada Maligawa): Tunnel to Sri Dalada Maligawa painted with lotus flower", fig.width=5, fig.height=5, echo=FALSE}
 knitr::include_graphics("img/kandy2.png")
