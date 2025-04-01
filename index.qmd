@@ -6,7 +6,9 @@ title: "Exploring Artistic Legacy: Analyzing Artifact Differences Across Kingdom
 
 This research project is a new journey from **Machine Learning to Kingdom Learning** with **M**athematics, **A**rt and **D**ata **S**cience (**MADS**), exploring mathematical concepts embedded in historical paintings and their evolution across different kingdoms in Sri Lanka.
 
-This research strongly aligns with the 2025 International Day of Mathematics theme: Mathematics, Art, and Creativity, emphasizing the importance of the intersection between mathematics and art.
+This project strongly aligns with the 2025 International Day of Mathematics theme: Mathematics, Art, and Creativity, emphasizing the importance of the intersection between mathematics and art.
+
+Furthermore, this project closely aligns with the mission of the University of Sri Jayewardenepura—**'Develop globally competent citizens through our education for a sustainable future, drawing inspirations from our cultural heritage and wisdom'** Conducted within the university, this project contributes to preserving and analyzing Sri Lanka’s historical artifacts and wall paintings, fostering both cultural appreciation and academic advancement.
 
 ```{r, fig.cap="Figure 1: Temple of the Tooth Relic (Sri Dalada Maligawa): Tunnel to Sri Dalada Maligawa painted with lotus flower", fig.width=5, fig.height=5, echo=FALSE}
 knitr::include_graphics("img/Kandy3.jpg")
