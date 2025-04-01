@@ -138,5 +138,19 @@
     "title": "Results Already Achieved",
     "section": "Development of an R Package for Creating an Atlas of Mathematically Rooted Artifacts",
     "text": "Development of an R Package for Creating an Atlas of Mathematically Rooted Artifacts\nThe development version of the package is available in my github repository at https://github.com/thiyangt/SriLanka\nYou can install the development version of SriLanka from GitHub with:\n# install.packages(\"devtools\")\ndevtools::install_github(\"thiyangt/SriLanka\")"
+  },
+  {
+    "objectID": "goals.html#create-machine-learning-models-to-identify-mathematical-patterns-such-as-symmetry-tessellation-the-golden-ratio-geometries-motif-and-coloring-algorithms-rooted-in-historical-paintings-and-artifacts",
+    "href": "goals.html#create-machine-learning-models-to-identify-mathematical-patterns-such-as-symmetry-tessellation-the-golden-ratio-geometries-motif-and-coloring-algorithms-rooted-in-historical-paintings-and-artifacts",
+    "title": "Project Goals and Contribution to SDGs",
+    "section": "3. Create machine learning models to identify mathematical patterns such as symmetry, tessellation, the golden ratio, geometries, motif and coloring algorithms rooted in historical paintings and artifacts",
+    "text": "3. Create machine learning models to identify mathematical patterns such as symmetry, tessellation, the golden ratio, geometries, motif and coloring algorithms rooted in historical paintings and artifacts\n\nSDG 4 (Quality Education): Encourages interdisciplinary learning in mathematics, art, and data science.\nSDG 9 (Innovation & AI in Cultural Studies): Bridges historical art and modern technology.\nSDG 11 (Sustainable Cities and Communities): Uncovering mathematical patterns and structures in artifacts enhances their global recognition, attracting a wider audience and boosting cultural tourism. This method can also be used as a way to authenticate our artifacts."
+  },
+  {
+    "objectID": "goals.html#produce-a-documentary-highlighting-these-discoveries-to-promote-tourism-and-engage-a-broader-audience.-additionally-develop-open-access-online-books-that-integrate-mathematics-and-programming-with-art-fostering-mathematical-education.-create-mandala-designs-inspired-by-traditional-sri-lankan-art-to-enhance-mathematical-thinking-in-a-stress-relieving-and-creative-way",
+    "href": "goals.html#produce-a-documentary-highlighting-these-discoveries-to-promote-tourism-and-engage-a-broader-audience.-additionally-develop-open-access-online-books-that-integrate-mathematics-and-programming-with-art-fostering-mathematical-education.-create-mandala-designs-inspired-by-traditional-sri-lankan-art-to-enhance-mathematical-thinking-in-a-stress-relieving-and-creative-way",
+    "title": "Project Goals and Contribution to SDGs",
+    "section": "5. Produce a documentary highlighting these discoveries to promote tourism and engage a broader audience. Additionally, develop open-access online books that integrate mathematics and programming with art, fostering mathematical education. Create mandala designs inspired by traditional Sri Lankan art to enhance mathematical thinking in a stress-relieving and creative way",
+    "text": "5. Produce a documentary highlighting these discoveries to promote tourism and engage a broader audience. Additionally, develop open-access online books that integrate mathematics and programming with art, fostering mathematical education. Create mandala designs inspired by traditional Sri Lankan art to enhance mathematical thinking in a stress-relieving and creative way\n\nSDG 4 (Education & Awareness): Enhances STEM + Art (STEAM) learning by integrating history, art and mathematics."
   }
 ]
