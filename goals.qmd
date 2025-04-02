@@ -39,5 +39,3 @@ title: "Project Goals and Contribution to SDGs"
 -   SDG 4 (Quality Education): Enhances STEM + Art (STEAM) learning by integrating history, art, mathematics and data science.
 
 -   SDG 8 (Decent Work and Economic Growth): The tourism-focused documentary can help promote Sri Lanka’s cultural heritage, potentially boosting the local economy.
-
-
